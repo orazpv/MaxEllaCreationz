@@ -63,6 +63,7 @@
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\main.css" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="images\Green-Set1.jpg" />
     <Content Include="images\IMG-20141212-WA0001.jpg" />
     <Content Include="images\IMG-20150121-WA0000.jpg" />
     <Content Include="images\IMG-20150122-WA0004.jpg" />
