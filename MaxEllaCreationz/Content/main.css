@@ -1,0 +1,40 @@
+﻿body {
+    background:#53d5d6;
+}
+.head-banner {
+    width:100%;
+    height:auto;
+    padding:20px;
+    text-align:center;
+    margin-bottom:10px;
+}
+.head-title {
+    display:inline;
+    margin-right:30px;
+    font-family:Elephant;
+    font-size:20px;
+    color:#58c1d8;
+}
+.search-elements {
+    display:inline-block;
+}
+.inline {
+    display:inline-block;
+}
+.body-container {
+    width:100%;
+    height:100%;
+}
+.image-slide {
+    display:table;
+    margin:0 auto;
+    width:50%;
+    height:auto;
+    border:3px solid #e8dede;
+}
+    .image-slide img {
+        width:350px;
+        height:300px;
+        background-repeat:no-repeat;
+        background-size:cover;
+    }
